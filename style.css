@@ -1,8 +1,10 @@
+img{
+    height: 10%;
+} 
 #semaforo{
-    display: flex;
-    flex-direction: column;
+color: #000;
 }
 
-.negro{
-    
+h{
+    font-size: 10%;
 }
